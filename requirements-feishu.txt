@@ -1,0 +1,2 @@
+lark-oapi==1.7.5
+requests==2.34.2

@@ -1,0 +1,17 @@
+# Secrets, local configuration and machine-specific state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+reports/
+output/
+.playwright-cli/
+.pytest_cache/
+.DS_Store
